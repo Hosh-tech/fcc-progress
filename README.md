@@ -1,7 +1,8 @@
-# fcc-progress
-Just keeping track of my progress through fCC
+# fcc-progress\
+Just keeping track of my progress through fCC\
 \
-**Responsive Web Design**
+**Responsive Web Design**\
+\
 \
 **Learn html by building a cat phto app:**\
 Started 30/12/24 ~8pm\
