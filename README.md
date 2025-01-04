@@ -15,3 +15,8 @@ Finished 31/12/24 5:30pm\
 **Learn CSS colours:**\
 Started 1/1/25 4:30pm\
 Finished 1/1/25 6:15pm\
+\
+**Learn HTML forms by building a Registration Form**\
+Started 2/1/25 11am\
+Finished 4/1/25 1:20pm\
+\
