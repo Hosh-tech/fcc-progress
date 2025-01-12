@@ -1,4 +1,4 @@
-# fcc-progress\
+# fcc-progress
 Just keeping track of my progress through fCC\
 \
 **Responsive Web Design**\
@@ -20,3 +20,7 @@ Finished 1/1/25 6:15pm\
 Started 2/1/25 11am\
 Finished 4/1/25 1:20pm\
 \
+**CERTIFICATION PROJECT - Survey Form**\
+After taking a week off due to commitments at work:\
+Started 12/1/25 11:30pm\
+Finished 3:30am\
