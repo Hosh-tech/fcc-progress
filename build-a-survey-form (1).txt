@@ -1,0 +1,165 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Survey Form</title>
+</head>
+<body>
+  <div class="container"
+  <header class="header">
+  <h1 id="title">Data Harvester</h1>
+<p id="description">Totally not yours though...</p>
+<form id="survey-form">
+  <div class="form-group">
+    <label id="name-label" for="name">Name:<br>
+      <input id="name" name="name" type="text" class="form-control" placeholder="Enter Your Name" required
+        /></label><br><br>
+    <label id="email-label" for="email">Email:<br>
+      <input id="email" name="email" type="email" class="form-control" placeholder="Enter Your Email" required
+        /></label><br><br>
+    <label id="number-label" for="age"
+          >Age:<br>
+      <input id="number" type="number" name="age" class="form-control"min="13" max="120" placeholder="Age"
+        /></label><br><br>
+    <label for="dropdown">What would <em> you </em> prefer to harvest?</label><br><br>
+      <select id="dropdown">
+        <option disabled selected value> -- select an option -- </option>
+        <option value="data">Data</option>
+        <option value="organs">Organs</option>
+        <option value="wheat">Wheat</option>
+      </select>
+      <div class="form-group">
+        <p>What other personal information would you like to share?</p>
+      <input name="check-harvest" value="maiden-name" type="radio" class="input-radio" checked>
+      <label for="maiden-name">Mother's Maiden Name</label><br>
+      <input name="check-harvest" value="first-pet" type="radio" class="input-radio">
+      <label for="first-pet">First Pet's Name</label><br>
+      <input name="check-harvest" value="address" type="radio" class="input-radio">
+      <label for="address">Home Address</label>
+      </div>
+      <br>
+      <br>
+      <div class="form-group">
+        <p>Who is your favourite data mining company?</p>
+      <input type="checkbox" id="choice1" name="choice1" value="Google">
+        <label for="choice1"> Google</label><br>
+      <input type="checkbox" id="choice2" name="choice2" value="YouTube">
+        <label for="choice2"> YouTube</label><br>
+      <input type="checkbox" id="choice4" name="choice4" value="Microsoft">
+        <label for="choice3"> Microsoft</label><br>
+        <input type="checkbox" id="choice5" name="choice5" value="Amazon">
+        <label for="choice3"> Amazon</label><br>
+        <input type="checkbox" id="choice6" name="choice6" value="Facebook">
+        <label for="choice3"> Facebook</label><br>
+        <input type="checkbox" id="choice7" name="choice7" value="Instagram">
+        <label for="choice3"> Instagram</label><br>
+        <input type="checkbox" id="choice8" name="choice8" value="Apple">
+        <label for="choice3"> Apple</label><br>
+        <input type="checkbox" id="choice9" name="choice9" value="Netflix">
+        <label for="choice3"> Netflix</label><br>
+        <input type="checkbox" id="choice10" name="choice10" value="Twitter">
+        <label for="choice3"> Twitter</label><br>
+        <input type="checkbox" id="choice11" name="choice11" value="Snapchat">
+        <label for="choice3"> Snapchat</label><br>
+        <input type="checkbox" id="choice12" name="choice12" value="OpenAI">
+        <label for="choice3"> OpenAI</label><br>
+        <input type="checkbox" id="choice12" name="choice12" value="Uber">
+        <label for="choice3"> Uber</label><br>
+        <br>
+        <br>
+        <div class="form-group">
+          <p>Please list every file you've ever created or downloaded since 1993.</p>
+        <textarea></textarea><br><br>
+      <input id="submit" type="submit" value="Submit">
+      </body>
+
+** end of undefined **
+
+** start of undefined **
+
+.title {
+  border-radius: 5px;
+  padding: 20px;
+  background-color: orange;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  color: #f5f6f7;
+  font-family: Garamond;
+  font-size: 16px;
+  background-image: url(https://www.faena.com/sites/default/files/styles/hero_mobile/public/2020-07/%E2%80%A2-Filosofi%CC%81a-hacker-para-cambiar-tu-realidad-1259x686.jpg?itok=pgkYmQNy);
+  background-size: cover;
+}
+
+.form-group {
+  border-radius: 5px;
+  padding: 20px;
+  background-color: orange;
+}
+
+h1,
+p {
+  margin: 1em auto;
+  text-align: center;
+}
+
+form {
+  width: 60vw;
+  max-width: 500px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+
+.form-control {
+  display: block;
+  width: 92%;
+  height: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+}
+
+.input-radio,
+.input-checkbox {
+  display: inline-block;
+  margin-right: 0.8rem;
+  min-height: 1rem;
+  min-width: 1rem;
+}
+
+.form-group {
+  margin: 0 auto 1.25rem auto;
+  padding: 0.25rem;
+}
+
+textarea {
+  min-height: 120px;
+  width: 89%;
+  padding: 1rem;
+  resize: vertical;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  color: white;
+  background-color: blue;
+  border-color: white;
+  min-width: 300px;
+}
+
+** end of undefined **
+
