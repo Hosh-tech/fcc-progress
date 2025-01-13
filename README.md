@@ -1,5 +1,5 @@
 # fcc-progress
-Just keeping track of my progress through fCC\
+Just keeping track of my progress through fCC. Start and end times are merely reflect how long it has taken to do each task and does not account for extracurricular studies into each section.\
 \
 **Responsive Web Design**\
 \
