@@ -23,4 +23,8 @@ Finished 4/1/25 1:20pm\
 **CERTIFICATION PROJECT - Survey Form**\
 After taking a week off due to commitments at work:\
 Started 12/1/25 11:30pm\
-Finished 12/1/25 3:30am
+Finished 12/1/25 3:30am\
+\
+**Learn the CSS Box Model by Building a Rothko Painting**\
+Started 13/1/25 12am\
+Finished 13/1/25 12:30am\
