@@ -28,3 +28,7 @@ Finished 12/1/25 3:30am\
 **Learn the CSS Box Model by Building a Rothko Painting**\
 Started 13/1/25 12am\
 Finished 13/1/25 12:30am\
+\
+**Learn CSS Flexbox by Building a Photo Gallery**\
+Started 13/1/25 12pm\
+Finished 13/1/25 8pm\
