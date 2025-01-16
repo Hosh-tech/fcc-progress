@@ -32,3 +32,11 @@ Finished 13/1/25 12:30am\
 **Learn CSS Flexbox by Building a Photo Gallery**\
 Started 13/1/25 12pm\
 Finished 13/1/25 8pm\
+\
+**Learn Typography by Building a Nutrition Label**\
+Started 14/1/25 9:30pm\
+Finished 15/1/25 12am\
+\
+**Build a Tribute Page**\
+Started 14/1/25 6:30pm\
+Finished ongoing, not happy with some of the formatting.
