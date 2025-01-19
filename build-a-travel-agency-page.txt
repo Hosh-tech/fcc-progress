@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Travel Agency Page</title>
+</head>
+<body>
+    <h1>Discover Hell! Travel Today!</h1>
+    <p><em>'Virgil was such a good tour guide, I forgot I had sinned! - Ulysses</em></p>
+
+    <h2>Packages</h2>
+    <p>Virgil's Inferno Tours take you through all nine (that's <em>nine</em>) circles of hell!</p>
+    <ul>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+        <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+
+    <h2>Top Itineraries</h2>
+    <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+            <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/inferno-pieter-huys.jpg" alt="Inferno by Pieter Huys">
+        </a>
+        <figcaption>Hundreds of Activities for the Whole Family!</figcaption>
+    </figure>
+
+    <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+            <img src="https://www.theparisreview.org/blog/wp-content/uploads/2014/03/the-inferno-canto-19.jpgHalfHD.jpg" alt="The Inferno Canto 19">
+        </a>
+        <figcaption>Find Your Favourite Pope!</figcaption>
+    </figure>
+
+    <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Dore_Lucifer.jpg/591px-Dore_Lucifer.jpg" alt="Lucifer by Gustave Doré">
+        </a>
+        <figcaption>Life Drawing with Lucifer!</figcaption>
+    </figure>
+</body>
+</html>
