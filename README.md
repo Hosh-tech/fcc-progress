@@ -39,4 +39,9 @@ Finished 15/1/25 12am\
 \
 **Build a Tribute Page**\
 Started 14/1/25 6:30pm\
-Finished ongoing, not happy with some of the formatting.
+Finished ongoing, not happy with some of the formatting.\
+\
+**Build a Travel Agency Page**\
+Started 19/1/25 9pm\
+Finished 19/1/25 10:30pm\
+Initially lost what I had done, but managed to re-write quite quickly. Easy task, good memory exercise.
