@@ -1,0 +1,68 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inanimate Carbon Rod</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main id="main">
+      <h1 id="title">Inanimate Carbon Rod</h1>
+      <p><em>I'll show you inanimate!</em></p>
+      <figure id="img-div">
+        <img id="image" src="https://i.redd.it/2h9f3emjh4i31.png" alt="Time Magazine Cover" class="center">
+ <figcaption id="img-caption">       <blockquote><em>Winner of the Montgomery Burns Award for Outstanding Achievement in the Field of Excellence</em></blockquote></figcaption>
+        </figure><br><br>
+      <section id="tribute-info">
+        <h3 id="facts">Some amazing facts about the rod</h3>
+        <ul>
+          <li>The Inanimate carbon rod is a rod made of carbon.</li>
+          <li>Is a fan of former President James Taylor's music.</li>
+          <li>Can hold a space shuttle door closed during reentry</li>
+          <li>Its shape is cylindrical.</li>
+          <li>No one has actually seen it up-close.</li>
+          <li>Number of protons: 6.</li>
+          <li>Relative atomic mass: 12.</li>
+          <li>Is the 'strong silent type'.</li><br><br>
+  <h4><em>Your ideas are intriguing to me and I wish to subscribe to your <a id="tribute-link" href="https://simpsons.fandom.com/wiki/Inanimate_carbon_rod" target="_blank"> newsletter</em></h4>
+
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+h1 {
+  text-align: center;
+  border: none;
+  padding: 55px;
+  margin: 0px;
+  background-color: rgb(74, 156, 145)
+}
+
+body {
+  background-color: rgb(255, 231, 0)
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+figcaption, h3, h4, p {
+  text-align: center;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+** end of undefined **
+
