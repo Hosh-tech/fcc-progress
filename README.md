@@ -44,4 +44,9 @@ Finished ongoing, not happy with some of the formatting.\
 **Build a Travel Agency Page**\
 Started 19/1/25 9pm\
 Finished 19/1/25 10:30pm\
-Initially lost what I had done, but managed to re-write quite quickly. Easy task, good memory exercise.
+Initially lost what I had done, but managed to re-write quite quickly. Easy task, good memory exercise.\
+\
+**Learn Accessibility by Building a Quiz**\
+Started 6/2/25 1pm\
+Finished 6/2/25 4pm\
+Took a couple of weeks off due to work, so I wanted to get started again with FCC and not lose too much motivation. Not a huge fan of building this one, the work dragged and I couldn't wait to finish.
