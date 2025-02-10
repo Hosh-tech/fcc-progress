@@ -57,4 +57,9 @@ _Initially lost what I had done, but managed to re-write quite quickly. Easy tas
 **Learn Accessibility by Building a Quiz**\
 Started 6/2/25 1pm\
 Finished 6/2/25 4pm\
-_Took a couple of weeks off due to work, so I wanted to get started again with FCC and not lose too much motivation. Not a huge fan of building this one, the work dragged and I couldn't wait to finish, but that is probablt just having to dust off the rust from not doing any of the work at all. Still motivated._
+_Took a couple of weeks off due to work, so I wanted to get started again with FCC and not lose too much motivation. Not a huge fan of building this one, the work dragged and I couldn't wait to finish, but that is probablt just having to dust off the rust from not doing any of the work at all. Still motivated._\
+\
+**Learn More About CSS Pseudo Selectors by Building a Balance Sheet**\
+Started 10/2/25 11am\
+Finished 10/2/25 5:30pm\
+_Again, took my time with this one, lots of useful information regarding pseudo selectors that I have made a note of and will refer back to this one in future. Quite a bit, I expect._\
