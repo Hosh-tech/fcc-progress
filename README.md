@@ -76,4 +76,8 @@ _Again, took my time with this one, lots of useful information regarding pseudo 
 Started 12/2/25 8pm\
 Finished 14/2/25 7:30pm\
 \
-_Decent exercise here, I really enjoyed the way the tutorial parsed everything repeatedly to ensure comprehensive coverage and forming a knowledge base. Wish I had done this in one single session to make my notes more involved, but this was split over 2 days because of my work commitments_
+_Decent exercise here, I really enjoyed the way the tutorial parsed everything repeatedly to ensure comprehensive coverage and forming a knowledge base. Wish I had done this in one single session to make my notes more involved, but this was split over 2 days because of my work commitments._\
+\
+**Learn Responsive Web Design by Building a Piano**\
+Started 14/2/25 8:30pm\
+Finished 14/2/25 9pm\
