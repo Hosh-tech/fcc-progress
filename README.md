@@ -63,3 +63,8 @@ _Took a couple of weeks off due to work, so I wanted to get started again with F
 Started 10/2/25 11am\
 Finished 10/2/25 5:30pm\
 _Again, took my time with this one, lots of useful information regarding pseudo selectors that I have made a note of and will refer back to this one in future. Quite a bit, I expect._\
+\
+**Learn Intermediate CSS by Building a Cat Painting**\
+Started 12/2/25 8pm\
+Finished 14/2/25 7:30pm\
+_Decent exercise here, I really enjoyed the way the tutorial parsed everything repeatedly to ensure comprehensive coverage and forming a knowledge base. Wish I had done this in one single session to make my notes more involved, but this was split over 2 days because of my work commitments_
