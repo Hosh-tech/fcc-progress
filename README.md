@@ -81,3 +81,6 @@ _Decent exercise here, I really enjoyed the way the tutorial parsed everything r
 **Learn Responsive Web Design by Building a Piano**\
 Started 14/2/25 8:30pm\
 Finished 14/2/25 9pm\
+\
+\
+**Total Hours (so far)** _= 33.5_
